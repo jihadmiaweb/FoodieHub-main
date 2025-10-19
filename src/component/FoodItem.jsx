@@ -7,7 +7,7 @@ const FoodItem = ({ id, name, price, description, image }) => {
 
 
   const { addToCart, } = useContext(StoreContext);
-  // const itemCount = cartItems[id] || 0;
+  // const itemCount = cartItems[id] || 08;
 
 
 
